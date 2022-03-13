@@ -16,7 +16,7 @@ public class GCD {
                   max=i;
             }
         }
-        System.out.print("GCD of 2 number is : "+max);
+        System.out.print("GCD of given 2 number is : "+max);
         
     }
 }
