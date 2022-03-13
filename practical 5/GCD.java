@@ -22,6 +22,7 @@ public class GCD {
         System.out.print("Enter a number n2 : ");
         n2 = s.nextInt();
 
+        //method call
         gcd(n1,n2);
         
 
