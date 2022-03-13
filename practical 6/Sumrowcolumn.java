@@ -10,8 +10,8 @@ public class Sumrowcolumn {
     public static void main(String[] args) {
         // declaration
         int m, n;
-        int sumrow = 0;
-        int sumcolumn = 0;
+        int sumrow;
+        int sumcolumn;
 
         // create a scanner for scanning value
         Scanner s = new Scanner(System.in);
