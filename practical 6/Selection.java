@@ -1,5 +1,5 @@
 
-//bubble sort
+//selection sort
 import java.util.*;
 
 import javax.swing.JMenuItem;
