@@ -1,4 +1,4 @@
-//selection sort using array
+//bubble sort using array
 
 import java.util.*;
 
