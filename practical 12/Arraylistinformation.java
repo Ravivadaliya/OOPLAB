@@ -43,7 +43,7 @@ public class Arraylistinformation {
         System.out.println(l1.contains(6));
         System.out.println(l1.contains(27));
 
-        //using for loop
+        //using for loop to print array list
        // for(Integer i : l1){
         //    System.out.println(i);
         //}
