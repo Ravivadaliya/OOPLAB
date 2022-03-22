@@ -50,7 +50,3 @@ public class Extraexample {
     }
 }
 
-// this method are return are boolean
-// we dont to do anything //because element to raedy to add array list
-// so let's add a not operater
-// if (!string.contains(temp))
