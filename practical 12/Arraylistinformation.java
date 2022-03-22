@@ -9,6 +9,7 @@ public class Arraylistinformation {
 
     // what is array list ??
     // syntex--->"ArrayList<Integer> l1 = new ArrayList<>();"
+                //here i m declare integer data type of array list you can choose any peramerer
 
     // it is a genric syntex
     // genric meaning -> class ko supply any parameter
