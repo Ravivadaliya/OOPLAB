@@ -67,7 +67,7 @@ public class Arraylistinformation {
         //size of arraylist 
         System.out.println(l1.size());
 
-        //To modify an element, use the set() method and refer to the index number:
+        //To modify(change) an element, use the set() method and refer to the index number:
         //-->"l1.set(index, element) "
 
 
