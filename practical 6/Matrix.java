@@ -60,15 +60,20 @@ public class Matrix {
             }
             System.out.println();// new line
         }
-        // multiplication
-        System.out.println("multiplication of two materix :");
+        
+       // Multiplication
+        System.out.println("multipication of two materix :");
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                c[i][j] = arr[i][j] * a[i][j];
+                c[i][j] = 0;
+                for (int k = 0; k < n; k++) {
+                    c[i][j] += arr[i][k] * a[k][j];
+                }
                 System.out.print(c[i][j] + "  ");
             }
             System.out.println();// new line
         }
+
 
         // divition
         System.out.println("divition of two materix :");
