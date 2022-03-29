@@ -102,7 +102,7 @@ public class Selection {
         for (i = 0; i < n; i++) {
             System.out.print(a[i] + " ");
         }
-        // System.out.println("sorted array is : "r1.sort(a,n));
+       
 
     }
 }
