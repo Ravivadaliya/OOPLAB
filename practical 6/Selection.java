@@ -97,8 +97,7 @@ public class Selection {
 
         System.out.println();
 
-        System.out.println("Using object ");
-        System.out.print("After sorted : ");
+        System.out.print("Using object : ");
         for (i = 0; i < n; i++) {
             System.out.print(a[i] + " ");
         }
