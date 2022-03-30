@@ -10,7 +10,7 @@ public class third {
         // create arraylist
         ArrayList<String> s = new ArrayList<>();
 
-        // create sublist
+        // create sublist 
         ArrayList<String> sublist = new ArrayList<>();
 
         // scanner
