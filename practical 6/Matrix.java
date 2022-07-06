@@ -74,17 +74,6 @@ public class Matrix {
             System.out.println();// new line
         }
 
-
-        // divition
-        System.out.println("divition of two materix :");
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                c[i][j] = arr[i][j] / a[i][j];
-                System.out.print(c[i][j] + "  ");
-            }
-            System.out.println();// new line
-        }
-
         System.out.println("total of 1st mattrix are : " + total);
         System.out.println("total of 2nd mattrix are : " + total2);
 
